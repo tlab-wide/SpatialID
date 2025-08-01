@@ -1,4 +1,4 @@
-# Spatial ID Dataset for the 23 Special Wards of Tokyo (ZL25, Building Layer Only)
+# Spatial ID Dataset for the 23 Special Wards of Tokyo (ZL25, bldg layer)
 
 This dataset provides spatial identifiers (Spatial IDs) derived from the 2023–2024 CityGML datasets for Tokyo’s 23 special wards. The Spatial IDs are compatible with the format and methodology of the [PLATEAU Spatial ID Generator](https://github.com/Project-PLATEAU/PLATEAU-generator-for-spatialid), a reference implementation developed under the Japanese Digital Agency’s 3D urban model standardisation initiative.
 
