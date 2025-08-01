@@ -61,13 +61,13 @@ Each file corresponds to a single `.gml` file in the original CityGML dataset an
 Original CityGML path:
 
 ```
-https://s3.tlab.cloud/13101_chiyoda-ku_pref_2023_citygml_2_op/udx/bldg/53394509_bldg_6697_op.gml
+https://s3.tlab.cloud/tokyo23ku/13101_chiyoda-ku_pref_2023_citygml_2_op/udx/bldg/53394509_bldg_6697_op.gml [private]
 ```
 
 Corresponding Spatial ID file (CSV):
 
 ```
-https://s3.tlab.cloud/spatialid/13101_chiyoda-ku_pref_2023_citygml_2_op/udx/bldg/spatialid/53394509_bldg_6697_op_zl25.csv
+https://s3.tlab.cloud/spatialid/tokyo23ku/13101_chiyoda-ku_pref_2023_citygml_2_op/udx/bldg/spatialid/53394509_bldg_6697_op_zl25.csv
 ```
 
 This one-to-one correspondence enables straightforward mapping between `.gml` source files and their associated Spatial ID CSVs in downstream workflows.
