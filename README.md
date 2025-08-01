@@ -2,7 +2,7 @@
 
 This dataset provides spatial identifiers (Spatial IDs) derived from the 2023–2024 CityGML datasets for Tokyo’s 23 special wards. The Spatial IDs are compatible with the format and methodology of the [PLATEAU Spatial ID Generator](https://github.com/Project-PLATEAU/PLATEAU-generator-for-spatialid), a reference implementation developed under the Japanese Digital Agency’s 3D urban model standardisation initiative.
 
-Each identifier corresponds to a single building object from the `bldg` layer of the original CityGML dataset. The output consists of CSV files structured to support downstream indexing, spatial filtering, and voxel-based analysis. Identifiers are generated at **zoom level 25**, corresponding to a voxel resolution of approximately **1m × 1m × 1m**.
+Each identifier corresponds to a single CityGML object from the `bldg` layer of the original CityGML dataset. The output consists of CSV files structured to support downstream indexing, spatial querying, and voxel-based analysis. Identifiers are generated at **zoom level 25**, corresponding to a voxel resolution of approximately **1m × 1m × 1m**.
 
 ---
 
